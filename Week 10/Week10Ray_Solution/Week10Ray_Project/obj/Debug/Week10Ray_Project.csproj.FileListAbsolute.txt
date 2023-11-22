@@ -1,0 +1,10 @@
+C:\Users\Ike\source\repos\Week10Ray_Solution\Week10Ray_Project\bin\Debug\Week10Ray_Project.exe.config
+C:\Users\Ike\source\repos\Week10Ray_Solution\Week10Ray_Project\bin\Debug\Week10Ray_Project.exe
+C:\Users\Ike\source\repos\Week10Ray_Solution\Week10Ray_Project\bin\Debug\Week10Ray_Project.pdb
+C:\Users\Ike\source\repos\Week10Ray_Solution\Week10Ray_Project\obj\Debug\Week10Ray_Project.csproj.AssemblyReference.cache
+C:\Users\Ike\source\repos\Week10Ray_Solution\Week10Ray_Project\obj\Debug\Week10Ray_Project.frmRadioStar.resources
+C:\Users\Ike\source\repos\Week10Ray_Solution\Week10Ray_Project\obj\Debug\Week10Ray_Project.Properties.Resources.resources
+C:\Users\Ike\source\repos\Week10Ray_Solution\Week10Ray_Project\obj\Debug\Week10Ray_Project.csproj.GenerateResource.cache
+C:\Users\Ike\source\repos\Week10Ray_Solution\Week10Ray_Project\obj\Debug\Week10Ray_Project.csproj.CoreCompileInputs.cache
+C:\Users\Ike\source\repos\Week10Ray_Solution\Week10Ray_Project\obj\Debug\Week10Ray_Project.exe
+C:\Users\Ike\source\repos\Week10Ray_Solution\Week10Ray_Project\obj\Debug\Week10Ray_Project.pdb
