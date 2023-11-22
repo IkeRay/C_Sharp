@@ -1,0 +1,10 @@
+C:\Users\Ike\source\repos\Week6-Ray_Solution\Week6-Ray_Project\bin\Debug\Week6-Ray_Project.exe.config
+C:\Users\Ike\source\repos\Week6-Ray_Solution\Week6-Ray_Project\bin\Debug\Week6-Ray_Project.exe
+C:\Users\Ike\source\repos\Week6-Ray_Solution\Week6-Ray_Project\bin\Debug\Week6-Ray_Project.pdb
+C:\Users\Ike\source\repos\Week6-Ray_Solution\Week6-Ray_Project\obj\Debug\Week6-Ray_Project.csproj.AssemblyReference.cache
+C:\Users\Ike\source\repos\Week6-Ray_Solution\Week6-Ray_Project\obj\Debug\Week6_Ray_Project.frmMethodActing.resources
+C:\Users\Ike\source\repos\Week6-Ray_Solution\Week6-Ray_Project\obj\Debug\Week6_Ray_Project.Properties.Resources.resources
+C:\Users\Ike\source\repos\Week6-Ray_Solution\Week6-Ray_Project\obj\Debug\Week6-Ray_Project.csproj.GenerateResource.cache
+C:\Users\Ike\source\repos\Week6-Ray_Solution\Week6-Ray_Project\obj\Debug\Week6-Ray_Project.csproj.CoreCompileInputs.cache
+C:\Users\Ike\source\repos\Week6-Ray_Solution\Week6-Ray_Project\obj\Debug\Week6-Ray_Project.exe
+C:\Users\Ike\source\repos\Week6-Ray_Solution\Week6-Ray_Project\obj\Debug\Week6-Ray_Project.pdb

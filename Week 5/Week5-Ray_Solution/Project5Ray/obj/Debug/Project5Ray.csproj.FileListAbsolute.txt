@@ -1,0 +1,10 @@
+C:\Users\Ike\source\repos\Solution5Ray\Project5Ray\obj\Debug\Project5Ray.csproj.AssemblyReference.cache
+C:\Users\Ike\source\repos\Solution5Ray\Project5Ray\obj\Debug\Project5Ray.Properties.Resources.resources
+C:\Users\Ike\source\repos\Solution5Ray\Project5Ray\obj\Debug\Project5Ray.csproj.GenerateResource.cache
+C:\Users\Ike\source\repos\Solution5Ray\Project5Ray\obj\Debug\Project5Ray.csproj.CoreCompileInputs.cache
+C:\Users\Ike\source\repos\Solution5Ray\Project5Ray\bin\Debug\Project5Ray.exe.config
+C:\Users\Ike\source\repos\Solution5Ray\Project5Ray\bin\Debug\Project5Ray.exe
+C:\Users\Ike\source\repos\Solution5Ray\Project5Ray\bin\Debug\Project5Ray.pdb
+C:\Users\Ike\source\repos\Solution5Ray\Project5Ray\obj\Debug\Project5Ray.exe
+C:\Users\Ike\source\repos\Solution5Ray\Project5Ray\obj\Debug\Project5Ray.pdb
+C:\Users\Ike\source\repos\Solution5Ray\Project5Ray\obj\Debug\Project5Ray.FrmChoices.resources

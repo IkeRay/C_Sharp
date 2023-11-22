@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5Ray", "Project5Ray\Project5Ray.csproj", "{B38ECFF5-59D6-4117-9C82-D8AE86FF3DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B38ECFF5-59D6-4117-9C82-D8AE86FF3DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38ECFF5-59D6-4117-9C82-D8AE86FF3DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38ECFF5-59D6-4117-9C82-D8AE86FF3DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38ECFF5-59D6-4117-9C82-D8AE86FF3DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AB21E11-F30E-4C7B-A532-C0834E4B4AA1}
+	EndGlobalSection
+EndGlobal
